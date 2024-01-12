@@ -7,7 +7,7 @@ This script controls the mouse when clicking in and will minimize the spray from
 ## Disclaimer
 This was tested in game and no ban or warnings was recieved, But i only play legit so wont know if it ever becomes bannable.
 
-**This project is for educational purposes only.** It was created as a demonstration of AI capabilities and should not be used to gain an unfair advantage in any online match. Use responsibly and respect the terms of service of the software you interact with.
+**This project is for educational purposes only.** It was created as a demonstration of AI code generation capabilities and should not be used to gain an unfair advantage in any online match. Use responsibly and respect the terms of service of the software you interact with.
 
 
 ## Before and After
