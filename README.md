@@ -5,24 +5,22 @@ This script controls the mouse when clicking in and will minimize the spray from
 
 
 ## Disclaimer
+This was tested in game and no ban or warnings was recieved, But i only play legit so wont know if it ever becomes bannable.
 
 **This project is for educational purposes only.** It was created as a demonstration of AI capabilities and should not be used to gain an unfair advantage in any online match. Use responsibly and respect the terms of service of the software you interact with.
 
-## How it Works
-
-The script utilizes the pynput library for mouse control. It originally had a generic pattern, but I customized it to demonstrate how you can tailor it to your needs. The provided pattern is just an example and should not be used in a real gaming environment.
 
 ## Before and After
 
 ### Before
+![before](https://github.com/EdenFails/The-Finals-FCAR-Gun-Script/assets/63517645/e6d405f4-5964-4302-9dc7-d210628d4639)
 
-![Before](before.gif)
-
-*Add a brief description or caption for the "Before" GIF.*
+*Large Recoil*
 
 ### After
 
-*Add a brief description or caption for the "After" GIF.*
+![after](https://github.com/EdenFails/The-Finals-FCAR-Gun-Script/assets/63517645/1248acc2-49b9-4e36-ac49-654cdd40513f)
+*Major Reduction on recoil*
 
 ## Usage
 Download from release tab or copy the code into visual code to ensure its not malicious.
@@ -30,9 +28,15 @@ To use run the script and press the up arrow then shoot
 if it didnt work the first time please close and open the script as it needed to install pywin32
 if it still doesnt work then manually install pywin32 following online tutorials, i will not support you in getting this working as it should be simple.
 
+## How it Works
+
+The script utilizes python libraries for mouse control. It originally had a generic pattern as given by Chatgpt, but I customized it to demonstrate how you can tailor it to your needs. The pattern currently is made for FCAR
+
 
 ---
 ## Discord : edenfails
+
+
 
 
 ---
