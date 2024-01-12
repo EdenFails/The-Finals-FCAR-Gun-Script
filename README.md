@@ -41,3 +41,4 @@ The script utilizes python libraries for mouse control. It originally had a gene
 
 ---
 **Note:** This project is purely for educational purposes, and its usage is subject to ethical considerations and the terms of service of the platforms you interact with.
+this could be considered as a cheat or cheats for the finals and i dont condone using it
